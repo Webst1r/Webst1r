@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/readme/header.svg" alt="Mthokozisi Masombuka - Data & Business Intelligence Analyst" width="100%"/>
+<img src="./assets/header.svg" alt="Mthokozisi Masombuka - Data & Business Intelligence Analyst" width="100%"/>
 
-<img src="./assets/readme/typing.svg" alt="BCom IT & Business Intelligence | Cum Laude. AWS Certified Cloud Practitioner. SQL, Python, FastAPI, Generative AI." width="640"/>
+<img src="./assets/typing.svg" alt="BCom IT & Business Intelligence | Cum Laude. AWS Certified Cloud Practitioner. SQL, Python, FastAPI, Generative AI." width="640"/>
 
 <br/>
 
@@ -13,11 +13,11 @@
 
 <br/><br/>
 
-<img src="./assets/readme/stats.svg" alt="24 verified credentials, 8+ distinctions, 4 apps deployed, cum laude" width="100%"/>
+<img src="./assets/stats.svg" alt="24 verified credentials, 8+ distinctions, 4 apps deployed, cum laude" width="100%"/>
 
 </div>
 
-<img src="./assets/readme/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 👋 About me
 
@@ -30,19 +30,19 @@ I'm a **Data & Business Intelligence** graduate from **Kwa-Thema, Gauteng**, bui
 - 🎯 Looking for graduate programmes and junior roles in **Data, BI, Cloud and AI** (remote, hybrid or relocation)
 - 📫 Best way to reach me: [email](mailto:99masombuka@gmail.com) or [LinkedIn](https://linkedin.com/in/webst1r)
 
-<img src="./assets/readme/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🧰 Skills & tools
 
 <div align="center">
 
-<img src="./assets/readme/skills.svg" alt="Skills: SQL, Python, FastAPI, AWS, Linux, Kubernetes, Generative AI, LLMs and RAG, LangChain" width="100%"/>
+<img src="./assets/skills.svg" alt="Skills: SQL, Python, FastAPI, AWS, Linux, Kubernetes, Generative AI, LLMs and RAG, LangChain" width="100%"/>
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,html,aws,linux,ubuntu,git,github,gitlab,kubernetes,vercel&perline=11" alt="Tech stack icons"/>
 
 </div>
 
-<img src="./assets/readme/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🏅 Certifications
 
@@ -62,7 +62,7 @@ I'm a **Data & Business Intelligence** graduate from **Kwa-Thema, Gauteng**, bui
 
 </div>
 
-<img src="./assets/readme/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Projects
 
@@ -96,7 +96,7 @@ I'm a **Data & Business Intelligence** graduate from **Kwa-Thema, Gauteng**, bui
   </tr>
 </table>
 
-<img src="./assets/readme/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub stats
 
@@ -111,7 +111,7 @@ I'm a **Data & Business Intelligence** graduate from **Kwa-Thema, Gauteng**, bui
 
 </div>
 
-<img src="./assets/readme/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🐍 Contribution snake
 
@@ -125,6 +125,6 @@ I'm a **Data & Business Intelligence** graduate from **Kwa-Thema, Gauteng**, bui
 
 <br/><br/>
 
-<img src="./assets/readme/footer.svg" alt="Thanks for stopping by. Let's build something with data." width="100%"/>
+<img src="./assets/footer.svg" alt="Thanks for stopping by. Let's build something with data." width="100%"/>
 
 </div>
