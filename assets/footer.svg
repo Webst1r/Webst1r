@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="100%" role="img" aria-label="Thanks for stopping by">
+<defs>
+ <linearGradient id="fb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1D33"/><stop offset="1" stop-color="#1c4c7c"/></linearGradient>
+ <clipPath id="fr"><rect width="1000" height="150" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#fr)">
+ <rect width="1000" height="150" fill="url(#fb)"/>
+ <path d="M0 40 Q125.0 26 250.0 40 T500.0 40 T750.0 40 T1000.0 40 T1250.0 40 T1500.0 40 T1750.0 40 V150 H0 Z" fill="#5B94C4" opacity=".18"><animateTransform attributeName="transform" type="translate" values="0 0;-500 0" dur="12s" repeatCount="indefinite"/></path>
+ <path d="M0 58 Q95.0 48 190.0 58 T380.0 58 T570.0 58 T760.0 58 T950.0 58 T1140.0 58 T1330.0 58 T1520.0 58 T1710.0 58 V150 H0 Z" fill="#B08D57" opacity=".16"><animateTransform attributeName="transform" type="translate" values="-380 0;0 0" dur="9s" repeatCount="indefinite"/></path>
+ <text x="500" y="78" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="700" fill="#fff">Thanks for stopping by
+   <animate attributeName="opacity" values="1;.78;1" dur="4s" repeatCount="indefinite"/></text>
+ <text x="500" y="108" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" letter-spacing="3" font-weight="600" fill="#CDAE7B">LET'S BUILD SOMETHING WITH DATA</text>
+ <circle cx="500" cy="128" r="3" fill="#CDAE7B"><animate attributeName="cx" values="440;560;440" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
