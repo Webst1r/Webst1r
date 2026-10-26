@@ -94,6 +94,20 @@ I'm a **Data & Business Intelligence** graduate from **Kwa-Thema, Gauteng**, bui
       <a href="https://invest-in-you-weld.vercel.app"><b>Live site →</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Body Measurements Analysis</h3>
+      <p>Analysed 2,018 subjects across 15 body measurements to uncover human body proportion patterns: 0.929 arm–leg length correlation, three body shapes (49% Proportional, 38% Pear, 13% Apple) and a 42% spread in waist circumference between extreme groups.</p>
+      <p><img src="https://img.shields.io/badge/SQL-0F2A47?style=flat-square" alt="SQL"/> <img src="https://img.shields.io/badge/Correlation_analysis-0F2A47?style=flat-square" alt="Correlation analysis"/> <img src="https://img.shields.io/badge/Segmentation-0F2A47?style=flat-square" alt="Segmentation"/></p>
+      <a href="https://webst1r.github.io/MyCv/#projects"><b>See the analysis →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 SQL & Tableau Learning Hub</h3>
+      <p>An AWS PartyRock app that guides users through SQL and Tableau with structured lessons, visual diagrams, progressive practice exercises, a capstone project and an AI tutor chatbot.</p>
+      <p><img src="https://img.shields.io/badge/PartyRock-0F2A47?style=flat-square&logo=amazonaws&logoColor=CDAE7B" alt="PartyRock"/> <img src="https://img.shields.io/badge/Generative_AI-0F2A47?style=flat-square" alt="Generative AI"/></p>
+      <a href="https://partyrock.aws/u/Webst4r/yW7Jx9-il/SQL-and-Tableau-Learning-Hub"><b>Open the app →</b></a>
+    </td>
+  </tr>
 </table>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
