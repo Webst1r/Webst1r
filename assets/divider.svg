@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 12" width="100%" role="presentation">
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" x2="500">
+ <stop offset="0" stop-color="#2F6FA3" stop-opacity="0"/><stop offset=".3" stop-color="#5B94C4"/><stop offset=".6" stop-color="#CDAE7B"/><stop offset="1" stop-color="#B08D57" stop-opacity="0"/>
+ <animateTransform attributeName="gradientTransform" type="translate" values="-500 0;1000 0" dur="4.5s" repeatCount="indefinite"/></linearGradient></defs>
+<rect x="0" y="5" width="1000" height="2" rx="1" fill="#2F6FA3" opacity=".25"/>
+<rect x="0" y="4" width="1000" height="4" rx="2" fill="url(#g)"/>
+</svg>
