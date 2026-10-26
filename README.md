@@ -107,8 +107,6 @@ I'm a **Data & Business Intelligence** graduate from **Kwa-Thema, Gauteng**, bui
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Webst1r&hide_border=true&background=0A1D33&ring=B08D57&fire=CDAE7B&currStreakNum=E9EEF4&sideNums=E9EEF4&currStreakLabel=CDAE7B&sideLabels=CDAE7B&dates=9FB6CC&border_radius=14"/>
 
-<img alt="Contribution graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Webst1r&bg_color=0A1D33&color=CDAE7B&line=5B94C4&point=E9EEF4&area=true&area_color=2F6FA3&hide_border=true&radius=14"/>
-
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
